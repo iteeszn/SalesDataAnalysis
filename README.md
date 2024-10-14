@@ -1,4 +1,4 @@
-# General Store Sales Analysis | MsExcel
+# General Store Sales Analysis
 
 ## Table of Content
 
@@ -8,6 +8,11 @@ This project presents an in-depth Sales Data Analysis using a dynamic dashboard 
 ### Data Sources
 
 ### Tools
+#### Excel
+- 
+  - [Download File](https://bit.ly/generalstoredataset)
+-
+-
 
 ### EDA
 #### The following reports and visualizations have been created:
