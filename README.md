@@ -2,7 +2,7 @@
 ### Project Overview
 #### This project presents an in-depth Sales Data Analysis using a dynamic dashboard that provides key insights into the business's performance. The dashboard highlights essential sales metrics and offers recommendations based on the analysis.
 
-## Table of Content
+### Table of Content
   -  [Project Overview](#project-overview)
   -  [Data Sources](#data-sources)
   -  [Tools](#tools)
