@@ -40,7 +40,8 @@ The Primary data source use on this project is "General Store dataset.xlsx" [Dow
     -  Dynamic and interactive visualization of data trends, patterns, and comparisons across different dimensions
     -  Real-time updates with data changes
 
-   ![Excel Dashboard](https://github.com/user-attachments/assets/4234a2e7-586f-44c3-8b5c-68d8bff00655)
+![Excel Dashboard](https://github.com/user-attachments/assets/1335f7d2-5008-44eb-b918-a2fe8efffaa7)
+
 
 ### EDA
 ####  For Data Exploration, the following reports and visualizations have been created for analysis:
