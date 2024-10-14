@@ -9,7 +9,7 @@ This project presents an in-depth Sales Data Analysis using a dynamic dashboard 
 
 ### Tools
 #### Excel
-- 
+- Power Query
   - [Download File](https://bit.ly/generalstoredataset)
 -
 -
