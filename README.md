@@ -17,10 +17,10 @@ The Primary data source use on this project is "General Store dataset.xlsx" file
 #### Excel
 - Power Query
   - [Download File](https://bit.ly/generalstoredataset)
--
--
+-  Pivot Table
+-  Pivot Charts
 
-### EDA
+### EDA - Data Exploration
 #### The following reports and visualizations have been created:
 ```
 - Revenue
