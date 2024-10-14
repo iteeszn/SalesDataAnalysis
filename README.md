@@ -3,12 +3,12 @@
 #### This project presents an in-depth Sales Data Analysis using a dynamic dashboard that provides key insights into the business's performance. The dashboard highlights essential sales metrics and offers recommendations based on the analysis.
 
 ## Table of Content
-  -  [Project Overview] (#project-overview)
-  -  [Data Sources] (#data-sources)
-  -  [Tools] (#tools)
-  -  [EDA] (#eda)
-  -  [Analysis and Recommendations] (#analysis-and-recommendations)
-  -  [Dataset Limitations] (#dataset-limitations)
+  -  [Project Overview](#project-overview)
+  -  [Data Sources](#data-sources)
+  -  [Tools](#tools)
+  -  [EDA](#eda)
+  -  [Analysis and Recommendations](#analysis-and-recommendations)
+  -  [Dataset Limitations](#dataset-limitations)
 
 ### Data Sources
 The Primary data source use on this project is "General Store dataset.xlsx" file, containing detailed information of the different department in the company, such as Sale overtime, Sale team, Store Locations and the Products of the company
@@ -20,8 +20,8 @@ The Primary data source use on this project is "General Store dataset.xlsx" file
 -  Pivot Table
 -  Pivot Charts
 
-### EDA - Data Exploration
-#### The following reports and visualizations have been created:
+### EDA
+####  For Data Exploration, the following reports and visualizations have been created for analysis:
 ```
 - Revenue
 - COGS
