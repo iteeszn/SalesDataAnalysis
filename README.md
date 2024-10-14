@@ -1,6 +1,12 @@
 # General Store Sales Analysis
 
 ## Table of Content
+  -  [Project Overview](#project-overview)
+  -  [Data Sources](#data-sources)
+  -  [Tools](#tools)
+  -  [EDA](#eda)
+  -  [Analysis and Recommendations](analysis-and-recommendations)
+  -  [Dataset Limitations](dataset-limitations)
 
 ### Project Overview
 This project presents an in-depth Sales Data Analysis using a dynamic dashboard that provides key insights into the business's performance.The dashboard highlights essential sales metrics and offers recommendations based on the analysis.
@@ -42,6 +48,6 @@ This project presents an in-depth Sales Data Analysis using a dynamic dashboard 
 5. The Top 5 Sales Team chart indicates that Nicholas Cunningham generated the highest sales ($1.856M), while Carl Nguyen generated the lowest among the top 5 teams ($1.753M).
   •	Recognize and reward high-performing sales teams like Nicholas Cunningham’s. Identify strategies and best practices they use and implement them across other teams to improve overall performance.
 
-### Limitations
+### Dataset Limitations
 Lack of Qualitative Insights: The analysis focuses on quantitative data without considering qualitative factors, such as customer feedback and market trends, which may limit the understanding of underlying issues and opportunities for improvement.
 
