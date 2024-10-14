@@ -30,9 +30,8 @@ The Primary data source use on this project is "General Store dataset.xlsx" file
 - Sales Channel Analysis
 - Sales Trend
 - Slicers by Quarter and Channel
--	Product Category Slicer
 - Top 5 Sales Team, Profitable State and Product Categories
--	Region Sales
+- Region Sales
   ```
 
 
