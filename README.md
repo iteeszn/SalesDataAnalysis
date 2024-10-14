@@ -1,4 +1,5 @@
 # General Store Sales Analysis
+### Project Overview
 #### This project presents an in-depth Sales Data Analysis using a dynamic dashboard that provides key insights into the business's performance. The dashboard highlights essential sales metrics and offers recommendations based on the analysis.
 
 ## Table of Content
@@ -8,8 +9,6 @@
   -  [EDA](#eda)
   -  [Analysis and Recommendations](#analysis-and-recommendations)
   -  [Dataset Limitations](#dataset-limitations)
-
-### Project Overview
 
 ### Data Sources
 The Primary data source use on this project is "General Store dataset.xlsx" file, containing detailed information of the different department in the company, such as Sale overtime, Sale team, Store Locations and the Products of the company
