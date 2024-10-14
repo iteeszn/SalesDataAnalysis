@@ -11,7 +11,7 @@
 -  [Dataset Limitations](#dataset-limitations)
 
 ### Data Sources
-The Primary data source use on this project is "General Store dataset.xlsx" file, containing detailed information of the different department in the company, such as Sale overtime, Sale team, Store Locations and the Products of the company
+The Primary data source use on this project is "General Store dataset.xlsx" [Download](https://bit.ly/generalstoredataset) file, containing detailed information of the different department in the company, such as Sale overtime, Sale team, Store Locations and the Products of the company
 
 ### Tools
 #### Excel   [Download File](https://bit.ly/generalstoredataset)
