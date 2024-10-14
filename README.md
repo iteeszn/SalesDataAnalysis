@@ -22,7 +22,8 @@ The Primary data source use on this project is "General Store dataset.xlsx" [Dow
     -  Writing DAX Functions
     -  Data Modeling to establish relationship
 
-   ![Data Models](https://github.com/user-attachments/assets/023ecf3d-9bf9-4095-9bc2-77decaae5202)               ![DM-Relationship](https://github.com/user-attachments/assets/1c4fa179-6512-41aa-b2ba-b58785820fcb)              ![Power Query](https://github.com/user-attachments/assets/e92811fb-6860-466f-bd15-22184cf51d44)
+
+   ![Power Query](https://github.com/user-attachments/assets/e92811fb-6860-466f-bd15-22184cf51d44)             ![Rltnship Model](https://github.com/user-attachments/assets/de38a250-d964-47df-ad53-b77521f8c0f2)                   ![Data Models](https://github.com/user-attachments/assets/023ecf3d-9bf9-4095-9bc2-77decaae5202)                          
 
 
 -  Pivot Table
