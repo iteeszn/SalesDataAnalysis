@@ -82,5 +82,30 @@ Lack of Qualitative Insights: The analysis focuses on quantitative data without 
 5. [Data with Decision](https://www.youtube.com/@datalab365/youtube.com/datawithdecision)
 6. [Her Data Project](https://www.youtube.com/watch?v=0N9xekdKCwk&list=PPSV)
 
+•
 
-📶📈📉💻💻💻
+•
+
+•
+
+📶
+
+•
+
+📈
+
+•
+
+📉
+
+•
+
+💻
+
+
+|Script|Software|
+|------|--------|
+|Content1|Content|
+|Python|SQL|
+
+
