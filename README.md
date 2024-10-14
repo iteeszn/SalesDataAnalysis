@@ -14,15 +14,21 @@
 The Primary data source use on this project is "General Store dataset.xlsx" file, containing detailed information of the different department in the company, such as Sale overtime, Sale team, Store Locations and the Products of the company
 
 ### Tools
-#### Excel
-- Power Query- This process includes, Data Loading and Inspection
-  Handling missing values
-  Data cleaning and formatting
-  Writing DAX Functions
-  Data Modeling for multiple sheets in a workbook and creating relationship
-  - [Download File](https://bit.ly/generalstoredataset)
+#### Excel   [Download File](https://bit.ly/generalstoredataset)
+- Power Query
+    -  Data Loading and Inspection
+    -  Handling missing values
+    -  Data cleaning and formatting
+    -  Writing DAX Functions
+    -  Data Modeling to establish relationship
 -  Pivot Table
+    -  Summarize and Explore Key Metrics
+    -  Dynamic grouping
+    -  Filtering and Slicing  
 -  Pivot Charts
+    -  Graphical representation of key metrics
+    -  Dynamic and interactive visualization of data trends, patterns, and comparisons across different dimensions
+    -  Real-time updates with data changes
 
 ### EDA
 ####  For Data Exploration, the following reports and visualizations have been created for analysis:
