@@ -76,7 +76,11 @@ Lack of Qualitative Insights: The analysis focuses on quantitative data without 
 
 ### References:
 1. [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
-2. [Alex the Analyst](https://www.youtube.com/watch?v=PSNXoAs2FtQ)
-3. [freecodecamp](https://www.youtube.com/watch?v=PSNXoAs2FtQ)
-4. [Data with Decision](https://www.youtube.com/@datalab365/youtube.com/datawithdecision)
-5. [Her Data Project](https://www.youtube.com/watch?v=0N9xekdKCwk&list=PPSV)
+2. [Excel Skills for Business](https://www.coursera.org/specializations/excel)
+3. [Alex the Analyst](https://www.youtube.com/watch?v=PSNXoAs2FtQ)
+4. [freecodecamp](https://www.youtube.com/watch?v=PSNXoAs2FtQ)
+5. [Data with Decision](https://www.youtube.com/@datalab365/youtube.com/datawithdecision)
+6. [Her Data Project](https://www.youtube.com/watch?v=0N9xekdKCwk&list=PPSV)
+
+
+📶📈📉💻💻💻
