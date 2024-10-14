@@ -74,3 +74,9 @@ The Primary data source use on this project is "General Store dataset.xlsx" [Dow
 ### Dataset Limitations
 Lack of Qualitative Insights: The analysis focuses on quantitative data without considering qualitative factors, such as customer feedback and market trends, which may limit the understanding of underlying issues and opportunities for improvement.
 
+### References:
+1. [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
+2. [Alex the Analyst](https://www.youtube.com/watch?v=PSNXoAs2FtQ)
+3. [freecodecamp](https://www.youtube.com/watch?v=PSNXoAs2FtQ)
+4. [Data with Decision](https://www.youtube.com/@datalab365/youtube.com/datawithdecision)
+5. [Her Data Project](https://www.youtube.com/watch?v=0N9xekdKCwk&list=PPSV)
