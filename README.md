@@ -21,14 +21,26 @@ The Primary data source use on this project is "General Store dataset.xlsx" [Dow
     -  Data cleaning and formatting
     -  Writing DAX Functions
     -  Data Modeling to establish relationship
+
+   ![Data Models](https://github.com/user-attachments/assets/023ecf3d-9bf9-4095-9bc2-77decaae5202)               ![DM-Relationship](https://github.com/user-attachments/assets/1c4fa179-6512-41aa-b2ba-b58785820fcb)              ![Power Query](https://github.com/user-attachments/assets/e92811fb-6860-466f-bd15-22184cf51d44)
+
+
 -  Pivot Table
+
     -  Summarize and Explore Key Metrics
     -  Dynamic grouping
-    -  Filtering and Slicing  
+    -  Filtering and Slicing
+   
+
+    ![Pivot table](https://github.com/user-attachments/assets/c6e3f6e9-d3d1-4bd9-914c-b57c334e731d)
+
+
 -  Pivot Charts
     -  Graphical representation of key metrics
     -  Dynamic and interactive visualization of data trends, patterns, and comparisons across different dimensions
     -  Real-time updates with data changes
+
+   ![Excel Dashboard](https://github.com/user-attachments/assets/4234a2e7-586f-44c3-8b5c-68d8bff00655)
 
 ### EDA
 ####  For Data Exploration, the following reports and visualizations have been created for analysis:
